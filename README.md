@@ -9,7 +9,7 @@ For more details and to access the GitHub repository, visit SmileyBot's website.
 wbesite https://smiley.iceiy.com
 
 
-
+please  star this github page if you downloaded it thanks.
 
 
 
